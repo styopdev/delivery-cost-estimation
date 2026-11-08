@@ -4,6 +4,7 @@ import re
 from app.ingestion import create_vector_store
 from app.retrieval import search_pricing_rules
 from app.historical_data import find_similar_deliveries
+from app.pricing import estimate_delivery_fee
 
 
 def main():
@@ -43,13 +44,18 @@ def main():
     closest = deliveries[0]
     difference = abs(closest["weight_kg"] - weight)
 
-    # Don't estimate when the available example is too different
+    if weight <= 0:
+        print("\nWeight must be greater than zero.")
+        return
+
     if difference > max(5, weight * 0.2):
-        print("\nInsufficient historical data for a reliable estimate.")
+        fee = estimate_delivery_fee(closest["distance_km"], weight)
+        print("\nAssistant:")
+        print(f"Estimated delivery fee: {fee:,} AMD")
         return
 
     print("\nAssistant:")
-    print(f"Estimated delivery fee: {closest['fee_amd']} AMD")
+    print(f"Estimated delivery fee: {closest['fee_amd']:,.0f} AMD")
     print(
         f"Based on a historical delivery of "
         f"{closest['weight_kg']} kg."
