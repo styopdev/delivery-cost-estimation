@@ -1,0 +1,8 @@
+Parcel Delivery Pricing Rules
+
+Base delivery fee: 500 AMD.
+Price per kilometer: 100 AMD.
+Weight surcharge: 50 AMD per kg above 2 kg.
+Minimum delivery fee: 700 AMD.
+Express delivery surcharge: 500 AMD.
+International deliver: Double the final cost

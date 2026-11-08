@@ -1,0 +1,99 @@
+Delivery: Yerevan to Abovyan
+Distance: 16 km
+Weight: 3 kg
+Delivery fee: 1800 AMD
+
+Delivery: Yerevan to Abovyan
+Distance: 18 km
+Weight: 8 kg
+Delivery fee: 2300 AMD
+
+Delivery: Yerevan to Gyumri
+Distance: 120 km
+Weight: 5 kg
+Delivery fee: 7500 AMD
+
+Delivery: Yerevan to Gyumri
+Distance: 125 km
+Weight: 10 kg
+Delivery fee: 8500 AMD
+
+Delivery: Yerevan to Vanadzor
+Distance: 115 km
+Weight: 10 kg
+Delivery fee: 8200 AMD
+
+Delivery: Yerevan to Vanadzor
+Distance: 118 km
+Weight: 2 kg
+Delivery fee: 7000 AMD
+
+Delivery: Yerevan to Ashtarak
+Distance: 20 km
+Weight: 8 kg
+Delivery fee: 2200 AMD
+
+Delivery: Yerevan to Ashtarak
+Distance: 22 km
+Weight: 2 kg
+Delivery fee: 1800 AMD
+
+Delivery: Yerevan to Artashat
+Distance: 30 km
+Weight: 4 kg
+Delivery fee: 2500 AMD
+
+Delivery: Yerevan to Armavir
+Distance: 45 km
+Weight: 6 kg
+Delivery fee: 3500 AMD
+
+Delivery: Yerevan to Hrazdan
+Distance: 55 km
+Weight: 5 kg
+Delivery fee: 4000 AMD
+
+Delivery: Yerevan to Dilijan
+Distance: 100 km
+Weight: 7 kg
+Delivery fee: 7000 AMD
+
+Delivery: Yerevan to Sevan
+Distance: 65 km
+Weight: 3 kg
+Delivery fee: 4800 AMD
+
+Delivery: Yerevan to Goris
+Distance: 240 km
+Weight: 5 kg
+Delivery fee: 14000 AMD
+
+Delivery: Yerevan to Kapan
+Distance: 300 km
+Weight: 10 kg
+Delivery fee: 18000 AMD
+
+Delivery: Yerevan to Echmiadzin
+Distance: 25 km
+Weight: 1 kg
+Delivery fee: 1800 AMD
+
+Delivery: Yerevan to Echmiadzin
+Distance: 27 km
+Weight: 15 kg
+Delivery fee: 2800 AMD
+
+Delivery: Gyumri to Vanadzor
+Distance: 65 km
+Weight: 5 kg
+Delivery fee: 4500 AMD
+
+Delivery: Abovyan to Sevan
+Distance: 45 km
+Weight: 3 kg
+Delivery fee: 3500 AMD
+
+Delivery: Yerevan to Tsaghkadzor
+Distance: 60 km
+Weight: 12 kg
+Delivery fee: 5500 AMD

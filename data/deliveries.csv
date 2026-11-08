@@ -1,0 +1,11 @@
+origin,destination,distance_km,weight_kg,fee_amd
+Yerevan,Sevan,65,3,4800
+Yerevan,Sevan,65,10,5200
+Yerevan,Sevan,65,20,6500
+Yerevan,Gyumri,120,5,7500
+Yerevan,Gyumri,120,10,8500
+Yerevan,Gyumri,120,30,12000
+Sevan,Gyumri,70,5,5000
+Sevan,Gyumri,70,15,6500
+Yerevan,Abovyan,16,3,1800
+Yerevan,Abovyan,16,8,2300
